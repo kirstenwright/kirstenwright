@@ -10,6 +10,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: kirstenwright/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          key: 20f4483c091c54985d2e36120090664c73b359b0
+- name: GitHub - Activity - Readme
+  uses: jamesgeorge007/github-activity-readme@v0.1.7
