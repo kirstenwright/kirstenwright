@@ -11,6 +11,9 @@
 - :sunflower: **planning:** a tiny, pandemic-friendly wedding...
 - :headphones: **listening:** to langhorne slim, c2c, white denim, star slinger, CYHSY
 - :tv: **watching:** *The West Wing*, again. 
+------
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1217509001&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 ----------
 ### The :four::one::one:
