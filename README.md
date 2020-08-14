@@ -46,6 +46,5 @@
 
 <sup>1. https://en.wikipedia.org/wiki/Absolute_pitch#cite_note-9</sup>
 
+![](https://komarev.com/ghpvc/?username=kirstenwright&color=blueviolet&style=square-flat&label=PROFILE+VIEWS)
 
-
-<!--START_SECTION:activity-->
