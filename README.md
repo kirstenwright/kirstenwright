@@ -37,7 +37,7 @@
 ####  :pizza:   While we're on the topic of food controversies, I am staunchly pro-pineapple pizza.
 ####   :soccer:   I love soccer and running. I ran the 1500m back in the day and the smell of a rubber track still makes my heart race.  
 ####  :book:  I love to write, edit, and read, and I especially :heart: Walt Whitman.
-####  :musical_score:  I am a classically trained pianist with relative pitch and pseudo-absolute (perfect) pitch<sup>1</sup>:. This means I can immediately play anything I hear. It makes for a great party trick! 
+####  :musical_score:  I am a classically trained pianist with relative pitch and pseudo-absolute (perfect) pitch<sup>1</sup>. This means I can immediately play anything I hear. It makes for a great party trick! 
 
 
 <sup>1. https://en.wikipedia.org/wiki/Absolute_pitch#cite_note-9</sup>
