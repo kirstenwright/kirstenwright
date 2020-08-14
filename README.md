@@ -13,6 +13,7 @@
 - :tv: **watching:** *The West Wing*, again. 
 
 ----------
+### The :four::one::one:
 
 ###  :star2: what I do: talent strategy
 
@@ -28,7 +29,7 @@
 
 ---------
 
-### :sparkles:⚡fun facts⚡:sparkles:
+### :sparkles:⚡Fun Facts⚡:sparkles:
 
 ####    :dog: My dog Lillie is indisputably the best, goodest dog in the world.
 ####   :cat: :guitar:   I have an ultra-friendly cat named Jack (short for Jack White, in honor of my decade-long crush).
