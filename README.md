@@ -1,6 +1,5 @@
-## hi, i'm kirsten. :wave: 
+## hi, i'm kirsten. :wave:
 (pronounced K:ear:sten).
----
 
 ### Currently...
 - :books: **reading:** <ins>Working in Public</ins> by Nadia Eghbal 
