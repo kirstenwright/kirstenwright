@@ -22,7 +22,7 @@
 
 ### :mortar_board: where I studied: occidental college (io triomphe!:tiger:)
 
-### 📫 how to reach me: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](http://linkedin.com/in/kirstenwright00); [:email:](kwri360@gmail.com) 
+### 📫 how to reach me: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](http://linkedin.com/in/kirstenwright00); [:email:](mailto:kwri360@gmail.com) 
 
 ---------
 
