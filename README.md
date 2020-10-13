@@ -5,10 +5,9 @@
 - :books: **reading:** <ins>Working in Public</ins> by Nadia Eghbal 
 - :coffee: **drinking:** black coffee & kombucha (my daily, daytime vices) 
 - :bulb: **learning:** how to cook, code, tie flies, and care for my areca palm 
-- :seedling: **growing:** tomatoes, jalapeños, habaneros, beets, lettuce, & basil
-- :sunflower: **planning:** a tiny, pandemic-friendly wedding...
-- :headphones: **listening:** to langhorne slim, c2c, white denim, star slinger, CYHSY
-- :tv: **watching:** *The West Wing*, again. 
+- :seedling: **growing:** jalapeños, habaneros, & one lone butternut squash
+- :headphones: **listening:** to langhorne slim, c2c, white denim, star slinger, jack white
+- :tv: **watching:** *Alone* and *The West Wing*, again. 
 ----------
 ### The :four::one::one:
 
