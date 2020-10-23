@@ -35,7 +35,7 @@
 ####    :snake:  Snake Lively is the name of my ball python -- I call her Snakey, for short. 
 ####   :beers: I like to kick back with a hazy IPA; I am also, likely, the biggest pumpkin beer fan on our planet. Yes, this is controversial. 
 ####  :pizza:   While we're on the topic of food controversies, I am staunchly pro-pineapple pizza.
-####   :soccer:   I love soccer and running. I ran the 1500m back in the day and the smell of a rubber track still makes my heart race.  
+####   :soccer:   I love soccer and running. I ran the 1500m back in the day, and the smell of a rubber track still makes my heart race.  
 ####  :book:  I love to write, edit, and read, and I especially :heart: Walt Whitman.
 ####  :musical_keyboard:  I am a classically trained pianist with *relative pitch* and *pseudo-absolute (perfect) pitch*<sup>1</sup>. This means I can immediately play anything I hear. It makes for a great party trick! 
 
