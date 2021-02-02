@@ -5,9 +5,8 @@
 - :books: **reading:** <ins>Working in Public</ins> by Nadia Eghbal 
 - :coffee: **drinking:** black coffee & kombucha (my daily, daytime vices) 
 - :bulb: **learning:** how to cook, code, tie flies, and care for my areca palm 
-- :seedling: **growing:** jalapeños, habaneros, & one lone butternut squash
 - :headphones: **listening:** to langhorne slim, c2c, white denim, star slinger, jack white
-- :tv: **watching:** *Alone* and *The West Wing*, again. 
+- :tv: **watching:** Disenchantment. Elfo <3 
 ----------
 ### The :four::one::one:
 
@@ -15,7 +14,7 @@
 
 ### :octocat: where I do it: GitHub
 
-### :round_pushpin: where I am: wallingford, seattle
+### :round_pushpin: where I am: seattle, washington
 
 ### :hatching_chick: where I'm from: portland, oregon
 
