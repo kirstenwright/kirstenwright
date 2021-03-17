@@ -6,7 +6,7 @@
 - :coffee: **drinking:** black coffee & kombucha (my daily, daytime vices) 
 - :bulb: **learning:** how to cook, code, tie flies, and care for my areca palm 
 - :headphones: **listening:** to langhorne slim, c2c, white denim, star slinger, jack white
-- :tv: **watching:** Disenchantment. Elfo <3 
+- :tv: **watching:** Mythic Quest. Watch it, trust me. 
 ----------
 ### The :four::one::one:
 
