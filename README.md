@@ -22,10 +22,7 @@
 
 ### 📫 how to reach me: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](http://linkedin.com/in/kirstenwright00); [:email:](mailto:kwri360@gmail.com) 
 
----------
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1217509001&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
------
+------------
 
 ### :sparkles:⚡Fun Facts⚡:sparkles:
 
